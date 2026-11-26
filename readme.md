@@ -1,5 +1,4 @@
 Learning the github for the first time
 
-```Javascript
+Javascript
 console.log("dbhdbhbshb)
-````
